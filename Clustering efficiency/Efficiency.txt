@@ -1,0 +1,15 @@
+Use Elbow method for below algorithms:
+1.K means
+2.Bisecting kmeans
+3.Spectral
+
+Use Dendogram method for below algorithms:
+1.Birch
+2.Agglomerative 
+
+Use Silhouette Analaysis for below mentioned algorithms:
+1.DBSCAN
+2.HDBSCAN
+3.Affinity Propagation
+4.OPTICS
+5.Mean shift.
